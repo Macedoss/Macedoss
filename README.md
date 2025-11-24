@@ -1,16 +1,25 @@
-## Hi there 👋
+🎓 Formação Acadêmica
+Idade: 25 anos
 
-<!--
-**Macedoss/Macedoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curso: Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Instituição: UDF (Centro Universitário do Distrito Federal)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Foco nos Estudos: Minhas matérias e projetos atuais envolvem:
+
+Front-End
+
+Banco de Dados
+
+Algoritmos
+
+Design Profissional
+
+💻 Conhecimentos Técnicos e Habilidades
+Tenho experiência prática e teórica nas seguintes tecnologias e linguagens:
+
+Linguagens Web: HTML, CSS, JavaScript
+
+Banco de Dados: SQL
+
+Linguagens de Programação: Linguagem C
