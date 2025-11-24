@@ -23,3 +23,5 @@ Linguagens Web: HTML, CSS, JavaScript
 Banco de Dados: SQL
 
 Linguagens de Programação: Linguagem C
+
+Curriculo Lattes: http://lattes.cnpq.br/1502774214440128
