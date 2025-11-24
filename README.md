@@ -1,4 +1,4 @@
-🎓 Formação Acadêmica
+ Formação Acadêmica
 Idade: 25 anos
 
 Curso: Análise e Desenvolvimento de Sistemas
@@ -15,7 +15,7 @@ Algoritmos
 
 Design Profissional
 
-💻 Conhecimentos Técnicos e Habilidades
+ Conhecimentos Técnicos e Habilidades
 Tenho experiência prática e teórica nas seguintes tecnologias e linguagens:
 
 Linguagens Web: HTML, CSS, JavaScript
